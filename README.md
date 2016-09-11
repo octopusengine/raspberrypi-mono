@@ -1,6 +1,6 @@
 # raspberrypi-mono
 
-<b>C#</b><br/>
+<b>C# testing on Raspberry Pi 3</b><br/>
 <br/>
 install:<br/>
 <code>sudo apt-get install mono-complete</code><br/>
