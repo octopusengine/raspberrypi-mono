@@ -12,11 +12,8 @@ public class getSinus
 }
 
 /*
-mcs getSin.cs
-run:
- ./getSin.exe 30
-retucompile:
-rn:
-sinus >> 0.5
+compile: 	mcs getSin.cs
+run: 		./getSin.exe 30
+return: 	sinus >> 0.5
 */
 
