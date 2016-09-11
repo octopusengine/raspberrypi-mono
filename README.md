@@ -5,7 +5,7 @@
 install:<br/>
 <code>sudo apt-get install mono-complete</code><br/>
 <br/>
-<b>First example:</b>return sinus from integer.. (one argument)<br/>
+<b>First example:</b> return sinus from integer.. (one argument)<br/>
 compile:<br/>
 <code>mcs getSin.cs</code> > getSin.exe<br/>
 run:<br/>
@@ -17,7 +17,7 @@ sinus >> 0.5</br/>
 <code>sudo apt-get install gtk-sharp2</code><br/><br/>
 http://www.raspberry-sharp.org/<br/><br/>
 <hr />
-<b>Next step:</b>monodevelop<br/>
+<b>Next step:</b> monodevelop<br/>
 
 
 
