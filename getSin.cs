@@ -1,5 +1,3 @@
-//https://www.raspberrypi.org/forums/viewtopic.php?p=88063
-
 using System;
 
 public class getSinus
@@ -13,13 +11,12 @@ public class getSinus
         }
 }
 
-
 /*
-compile:
 mcs getSin.cs
 run:
  ./getSin.exe 30
-return:
+retucompile:
+rn:
 sinus >> 0.5
 */
 
