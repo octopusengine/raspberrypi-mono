@@ -185,7 +185,7 @@ namespace CryptFile
             Console.WriteLine(" | |   / _ \\ / _` |/ _ \\   __) | |          ");
             Console.WriteLine(" | |__| (_) | (_| |  __/  / __/| |          ");
             Console.WriteLine("  \\____\\___/ \\__,_|\\___| |_____|_|          ");
-            Console.WriteLine("");
+            Console.WriteLine(" & octopusengine.eu for Linux");
             Console.WriteLine("");
             Console.WriteLine("");
         }
@@ -194,16 +194,16 @@ namespace CryptFile
         static void help()
         {
             ASCII_label();
-            Console.WriteLine("Program je urceny pro sifrovani a desifrovani souboru.");
-            Console.WriteLine("Soubor, ktery chceme zasifrovat nesmi mit koncovku *.aes. Ta je urcena jen pro zasifrovane soubory. Diky tomu se software sam rozhodne, chcete-li sifrovat nebo desifrovat.");
+            Console.WriteLine("The program is designed for encrypt and decrypt files.");
+            Console.WriteLine("Extension * .aes  is intended only for encrypted files > Software decide if you want to encrypt or decrypt.");
             Console.WriteLine("");
-            Console.WriteLine("Heslo si dobre zapamatujte. Pri jeho zapomenutí se jiz k puvodnim datum nedostanete.");
+            Console.WriteLine("Remember this password, otherwise you will lose the original data!");
             Console.WriteLine("");
-            Console.WriteLine("Spusteni programu:");
+            Console.WriteLine("Start program:");
             Console.WriteLine("");
-            Console.WriteLine("CryptFile [*.*]");
+            Console.WriteLine("CryptFile [*.*] | YOUR_FILE.*");
             Console.WriteLine("");
-            Console.WriteLine("Vysledkem je soubor *.aes.");
+            Console.WriteLine("The result is a file YOUR_FILE.aes.");
             
             Console.WriteLine("");
             Console.ReadKey();
@@ -238,7 +238,7 @@ namespace CryptFile
 
             if (!File.Exists(soubor))
             {
-                Console.WriteLine("Soubor neexistuje !!!");
+                Console.WriteLine("File does not exist!");
                 Console.ReadKey();
                 return;
             }
