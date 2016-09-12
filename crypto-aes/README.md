@@ -13,8 +13,8 @@ run / <b>decode</b>: <code>./crypt.exe YOUR_FILE.XYZ.aes</code><br />
 <i>
 The program is designed for encrypt and decrypt files.<br />
 Extension * .aes  is intended only for encrypted files (strictly determined)<br />
--> Software decide if you want to encrypt or decrypt.<br />
+-> Software decides - if you want to encrypt or decrypt.<br />
 <br />
-Remember this password, otherwise you will lose the original data!<br />
+Remember this password, otherwise you will "lose" the original source data!<br />
 </i>
 <br />
