@@ -6,6 +6,7 @@ encrypt/decrypt technology<br />
 adjusted for Linux C# / mono / and mono-develop<br />
 <hr />
 
-<br />
-<br />
-<br />
+compile: <code>mcs crypt.cs</code> > crypt.exe<br />
+run / encode: <code>./crypt.exe YOUR_FILE.XYZ</code> > YOUR_FILE.XYZ.aes<br />
+run / decode: <code>./crypt.exe YOUR_FILE.XYZ.aes</code><br />
+<hr />
