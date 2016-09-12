@@ -15,6 +15,6 @@ The program is designed for encrypt and decrypt files.<br />
 Extension * .aes  is intended only for encrypted files (strictly determined)<br />
 -> Software decides - if you want to encrypt or decrypt.<br />
 <br />
-Remember this password, otherwise you will "lose" the original source data!<br />
+Notice: Remember your password, otherwise you will really "lose" the original source data!<br />
 </i>
 <br />
