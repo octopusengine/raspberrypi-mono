@@ -1,7 +1,7 @@
 # CryptFile
 
 Original https://github.com/code21acoma/CryptFile<br />
-encrypt/decrypt technology<br />
+encrypt/decrypt technology (AES)<br />
 
 adjusted for Linux C# / mono / and mono-develop<br />
 <hr />
