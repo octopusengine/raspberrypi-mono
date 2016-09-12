@@ -1,16 +1,9 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.IO;
-
-//using System;
-//using System.Collections.Generic;
-//using System.Linq;
-//using System.Text;
 using System.Security.Cryptography;
-//using System.IO;
-
 
 
 namespace CryptFile
@@ -162,9 +155,6 @@ namespace CryptFile
     }
 
 
-
-
-
     class Program
     {
         static void ASCII_label()
@@ -185,9 +175,9 @@ namespace CryptFile
             Console.WriteLine(" | |   / _ \\ / _` |/ _ \\   __) | |          ");
             Console.WriteLine(" | |__| (_) | (_| |  __/  / __/| |          ");
             Console.WriteLine("  \\____\\___/ \\__,_|\\___| |_____|_|          ");
+            Console.WriteLine(" ");
             Console.WriteLine(" & octopusengine.eu for Linux");
-            Console.WriteLine("");
-            Console.WriteLine("");
+            Console.WriteLine(" bonum.comunae@volny.cz");
         }
         
         
