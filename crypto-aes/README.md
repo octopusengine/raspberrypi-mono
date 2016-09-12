@@ -3,7 +3,7 @@
 Original https://github.com/code21acoma/CryptFile<br />
 encrypt/decrypt technology (AES)<br />
 
-adjusted for Linux C# / mono / and mono-develop<br />
+adjusted for Linux C# / mono / and mono-develop / and testing on Raspberry Pi 3<br />
 <hr />
 
 simple <b>compile</b>: <code>mcs crypt.cs</code> > crypt.exe<br />
