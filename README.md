@@ -20,6 +20,7 @@ http://www.raspberry-sharp.org/<br/><br/>
 <b>Next step:</b> monodevelop<br/>
 <span itemprop="url"><a href="http://www.monodevelop.com" rel="nofollow">http://www.monodevelop.com</a></span><br/>
 <span itemprop="url"><a href="http://www.mono-project.com/" rel="nofollow">http://www.mono-project.com/</a></span>
-
+<br />
+install mono develop: <code>sudo apt-get install mono-complete</code><br/>
 
 
