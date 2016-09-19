@@ -27,6 +27,6 @@ install mono develop:<br/>
 <br /><hr />
 C++ links<br />
 http://www.raspberry-projects.com/pi/category/programming-in-c<br />
-<br />
+http://www.raspberry-projects.com/pi/programming-in-c/compilers-and-ides/geany/creating-a-project<br />
 <br />
 
