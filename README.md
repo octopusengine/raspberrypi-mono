@@ -25,4 +25,8 @@ install mono develop:<br/>
 <span itemprop="url"><a href="http://www.mono-project.com/" rel="nofollow">http://www.mono-project.com/</a></span>
 
 <br /><hr />
+C++ links<br />
+http://www.raspberry-projects.com/pi/category/programming-in-c<br />
+<br />
+<br />
 
